@@ -14,7 +14,7 @@ header {
     height: 100vh;
     width: 100vw;
     background-size: cover;
-    background-image: url(img/landscape.jpg);
+    background-image: url(landscape.jpg);
 }
 
 .navbar {
@@ -48,7 +48,7 @@ header {
   }
 
   .navbar .nav-links ul li.active a {
-    color: #ed3c57;
+    color: #2600ff;
     font-weight: 600;
   }
 
